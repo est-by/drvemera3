@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="en">
+    <body>
+      <trans-unit id="752868537940201599" datatype="html">
+        <source>Counter by tariff 6</source>
+        <note priority="1" from="description">EnblCounterTariff6</note>
+      </trans-unit>
+      <trans-unit id="801677855792222301" datatype="html">
+        <source>KI</source>
+        <note priority="1" from="description">KI</note>
+      </trans-unit>
+      <trans-unit id="1167933858829735509" datatype="html">
+        <source>Use KI,KU from device</source>
+        <note priority="1" from="description">KU_KI_Dev</note>
+      </trans-unit>
+      <trans-unit id="1431416938026210429" datatype="html">
+        <source>Password</source>
+        <note priority="1" from="description">PSW</note>
+      </trans-unit>
+      <trans-unit id="2044048482147854783" datatype="html">
+        <source>KU</source>
+        <note priority="1" from="description">KU</note>
+      </trans-unit>
+      <trans-unit id="2232053632627753095" datatype="html">
+        <source>Counter by tariff 1</source>
+        <note priority="1" from="description">EnblCounterTariff1</note>
+      </trans-unit>
+      <trans-unit id="2538690637668310078" datatype="html">
+        <source>Select data bus for</source>
+        <note priority="1" from="description">SELECTBUSFOR</note>
+      </trans-unit>
+      <trans-unit id="3025507374936834113" datatype="html">
+        <source>Counter by tariff 2</source>
+        <note priority="1" from="description">EnblCounterTariff2</note>
+      </trans-unit>
+      <trans-unit id="3192753641165405448" datatype="html">
+        <source>Base</source>
+        <note priority="1" from="description">PL_BASE</note>
+      </trans-unit>
+      <trans-unit id="3476348996185438516" datatype="html">
+        <source>3 Min</source>
+        <note priority="1" from="description">ENBL3MIN</note>
+      </trans-unit>
+      <trans-unit id="3797570084942068182" datatype="html">
+        <source>Select</source>
+        <note priority="1" from="description">SELECT</note>
+      </trans-unit>
+      <trans-unit id="3992770497175735081" datatype="html">
+        <source>Counter by tariff 7</source>
+        <note priority="1" from="description">EnblCounterTariff7</note>
+      </trans-unit>
+      <trans-unit id="4721999311175429772" datatype="html">
+        <source> CE-301 </source>
+        <note priority="1" from="description">TITLE</note>
+      </trans-unit>
+      <trans-unit id="4855717886560368579" datatype="html">
+        <source>Counter by tariff 5</source>
+        <note priority="1" from="description">EnblCounterTariff5</note>
+      </trans-unit>
+      <trans-unit id="5306473977542913614" datatype="html">
+        <source>Activity</source>
+        <note priority="1" from="description">ACTIVITY</note>
+      </trans-unit>
+      <trans-unit id="5326572275598226906" datatype="html">
+        <source>Counter by tariff 8</source>
+        <note priority="1" from="description">EnblCounterTariff8</note>
+      </trans-unit>
+      <trans-unit id="5613159976466747279" datatype="html">
+        <source>Counter by tariff 3</source>
+        <note priority="1" from="description">EnblCounterTariff3</note>
+      </trans-unit>
+      <trans-unit id="5729418620241283277" datatype="html">
+        <source>Events</source>
+        <note priority="1" from="description">ENBLEVENTS</note>
+      </trans-unit>
+      <trans-unit id="6252070156626006029" datatype="html">
+        <source>None</source>
+        <note priority="1" from="description">PL_NONE</note>
+      </trans-unit>
+      <trans-unit id="6392497183202037829" datatype="html">
+        <source>Time correct</source>
+        <note priority="1" from="description">ENBLTIMECORR</note>
+      </trans-unit>
+      <trans-unit id="7286430803380181008" datatype="html">
+        <source>Id</source>
+        <note priority="1" from="description">ID</note>
+      </trans-unit>
+      <trans-unit id="7561588580461157453" datatype="html">
+        <source>Access level</source>
+        <note priority="1" from="description">LEVEL</note>
+      </trans-unit>
+      <trans-unit id="7885558180787722134" datatype="html">
+        <source>30 Min</source>
+        <note priority="1" from="description">ENBL30MIN</note>
+      </trans-unit>
+      <trans-unit id="8094660015645089751" datatype="html">
+        <source>Data bus</source>
+        <note priority="1" from="description">DATABUS</note>
+      </trans-unit>
+      <trans-unit id="8917855576371087823" datatype="html">
+        <source>Instantaneous</source>
+        <note priority="1" from="description">ENBLIM</note>
+      </trans-unit>
+      <trans-unit id="8953033926734869941" datatype="html">
+        <source>Name</source>
+        <note priority="1" from="description">NAME</note>
+      </trans-unit>
+      <trans-unit id="8981756179813454368" datatype="html">
+        <source>Device address</source>
+        <note priority="1" from="description">ADDRESS</note>
+      </trans-unit>
+      <trans-unit id="9217484419718473862" datatype="html">
+        <source>Counter by tariff 4</source>
+        <note priority="1" from="description">EnblCounterTariff4</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
